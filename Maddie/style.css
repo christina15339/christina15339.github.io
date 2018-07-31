@@ -1,4 +1,4 @@
-h2 {color:yellow} 
+h2 {color:#4CE0D2} 
 
 font-family: "Monospace";
 
@@ -15,5 +15,5 @@ div.c {
 }
 
 h1 {
-    text-shadow: 2px 2px blue;
+    text-shadow: 2px 2px #00A896;
 }
