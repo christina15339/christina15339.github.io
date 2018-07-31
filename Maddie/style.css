@@ -1,5 +1,5 @@
 h2 {color:#467275} 
-h2 {color:#84CAE7}
+
 font-family: "Monospace";
 
 div.a {
@@ -12,4 +12,8 @@ div.b {
 
 div.c {
     font-size: 600%;
+}
+
+h1 {
+    text-shadow: 2px 2px #ff0000;
 }
