@@ -1,18 +1,1 @@
-p {color:#FF7072;}
-
-.fav_tv_show {
-  color:#F2C7B0;
-  font-size:14px;
-}
-
-    body {
-      background-color: #6BE9EF;
-      font-size: 150%;
-    }
-    
-    .myClass {
-      background-color: #47E5BC;
-      color: #50E5ED;
-      border: #467275;
-      letter-spacing: 50px;
-      text-shadow:2px 2px #ff0000;
+h2 {color:#467275} 
