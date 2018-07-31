@@ -1,3 +1,15 @@
 h2 {color:#467275} 
 h2 {color:#84CAE7}
 font-family: "Monospace";
+
+div.a {
+    font-size: 40px;
+}
+
+div.b {
+    font-size: large;
+}
+
+div.c {
+    font-size: 200%;
+}
